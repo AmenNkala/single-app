@@ -13,10 +13,16 @@
       "reminder": true
     },
     {
-      "id": 3,
+      "text": "BBD Meeting",
+      "day": "May 8th at 3pm ",
+      "reminder": true,
+      "id": 3
+    },
+    {
       "text": "Food shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "day": "May 7th at 8:00am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
